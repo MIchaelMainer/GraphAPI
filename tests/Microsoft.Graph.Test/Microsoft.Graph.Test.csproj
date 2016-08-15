@@ -83,6 +83,7 @@
     <Compile Include="Requests\Generated\MediaEntityStreamRequestTests.cs" />
     <Compile Include="Requests\Generated\EntityCollectionRequestTests.cs" />
     <Compile Include="Requests\Generated\ThumbnailRequestTests.cs" />
+    <Compile Include="Requests\Generated\UnitTest1.cs" />
     <Compile Include="Requests\RequestTestBase.cs" />
     <Compile Include="Models\ModelSerializationTests.cs" />
   </ItemGroup>
